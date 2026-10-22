@@ -1,0 +1,6 @@
+{
+  "name": "Personal Portfolio & Creative Studio",
+  "description": "Website personal berkonsep editorial minimalis dengan integrasi Supabase, kontak email langsung, mode gelap, analitik interaktif, dan aksesibilitas tinggi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
